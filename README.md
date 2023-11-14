@@ -11,7 +11,7 @@ refresh the page
 **Enable shortcut**
 go to shortcut in vscode 'Keyboard Shoortcuts' then search for
 'magicconsole.generateConsoleLog'
-double click and type hotkey
+double click and type hotkey (ctrl+c?)
 press Enter for 'done'
 
 Reference page:
@@ -24,3 +24,10 @@ prospect feature!
 1. Use emoji for different file extension
 
 2. Shortcut shift+c is not active automattically (bug)
+
+3. Add repository field
+
+4. Add LICENSE.md/.txt
+
+Run the extension
+use vsce package
